@@ -13,6 +13,6 @@ public class Main  {
         System.out.print("Введите вес товара (в кг.): ");
         int weight = scanner.nextInt();
         int result = CustomsService.calculateCustoms(price, weight);
-        System.out.println("Сумма пошлины (в руб.) составит: " + result);
+        System.out.println("Размер пошлины (в руб.) составит: " + result);
     }
 }
