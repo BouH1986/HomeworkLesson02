@@ -3,8 +3,8 @@ import ru.netology.service.CustomsService;
 
 public class Main  {
     public static void main(String[] args) {
-        System.out.println("Приветствую тебя, пользователь! Но кажется, я неправильно понял условия задачи...");
-        System.out.println();
+        //System.out.println("Приветствую тебя, пользователь! Но кажется, я неправильно понял условия задачи...");
+        //System.out.println();
         System.out.println("Программа расчета пошлины");
         System.out.println("Введите цену и вес товара");
         System.out.println();
